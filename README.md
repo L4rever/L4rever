@@ -18,7 +18,5 @@
 |:-|:--|
 ---
 
-<p align="center">
-    <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+![snake gif](https://github.com/L4rever/L4rever/blob/output/github-contribution-grid-snake.gif)
 
